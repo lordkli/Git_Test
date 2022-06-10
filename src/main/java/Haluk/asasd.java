@@ -1,2 +1,4 @@
-package Haluk;public class asasd {
+package Haluk;
+
+public class asasd {
 }
